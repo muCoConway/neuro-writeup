@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {subsection}{\numberline {1.1}Background and Motivation}{2}
+\contentsline {subsection}{\numberline {1.2}Experimental Method}{3}
+\contentsline {subsubsection}{\numberline {1.2.1}Experiment}{3}
+\contentsline {subsubsection}{\numberline {1.2.2}Data Acquisition}{3}
+\contentsline {section}{\numberline {2}Data Analysis}{4}
+\contentsline {subsection}{\numberline {2.1}Neural Data}{4}
+\contentsline {subsection}{\numberline {2.2}K-Nearest Neighbors Classification}{4}
+\contentsline {subsection}{\numberline {2.3}Signrank}{5}
+\contentsline {section}{\numberline {3}Discussion and Conclusions}{7}
+\contentsline {subsection}{\numberline {3.1}Acknowledgments}{8}
